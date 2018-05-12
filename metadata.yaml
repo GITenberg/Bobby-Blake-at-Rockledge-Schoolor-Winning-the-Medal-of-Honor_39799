@@ -1,0 +1,27 @@
+_repo: Bobby-Blake-at-Rockledge-Schoolor-Winning-the-Medal-of-Honor_39799
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39799-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Warner, Frank A.
+    gutenberg_agent_id: '41909'
+    url: http://www.gutenberg.org/2009/agents/41909
+description: ''
+gutenberg_issued: '2013-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Athletics -- Juvenile fiction'
+- !lcsh 'Sports stories'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Bobby Blake at Rockledge School; or, Winning the Medal of Honor
+url: http://www.gutenberg.org/ebooks/39799
